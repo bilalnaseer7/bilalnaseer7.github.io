@@ -2,4 +2,4 @@
 Personal portfolio showcasing projects and coursework
 
 
-search: https://bilalnaseer7.github.io
+https://bilalnaseer7.github.io
